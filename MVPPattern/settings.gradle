@@ -1,0 +1,2 @@
+rootProject.name = "MVPPattern"
+include ':app'
